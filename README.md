@@ -14,7 +14,7 @@ At the same time, I am also a programming enthusiast, welcome everyone to discus
 
 ## Educational experience
 
-**Undergraduate** 2018.09 - 2022.07
+**Undergraduate** *Chongqing Normal University* 2018.09 - 2022.07
 ##  How to contact me
  
  📫 You can send Email at any time. My Email is: <zhangjiaqi957957@outlook.com>
