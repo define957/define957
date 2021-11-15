@@ -12,6 +12,9 @@ Here are some ideas to get you Learn about me:
 
 At the same time, I am also a programming enthusiast, welcome everyone to discuss R and Python related issues! I am very interested in statistics and machine learning programming and I always hope to make a statistical open-source Python algorithm package. If you are interested, please contact me! We can work together.
 
+## Educational experience
+
+**Undergraduate** 2018.09 - 2022.07
 ##  How to contact me
  
  📫 You can send Email at any time. My Email is: <zhangjiaqi957957@outlook.com>
