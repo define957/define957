@@ -14,8 +14,8 @@ At the same time, I am also a programming enthusiast, welcome everyone to discus
 
 ## Educational experience
 
-**Undergraduate** *Chongqing Normal University* 2018.09 - 2022.07
-**Undergraduate** *Chongqing University*        2022.09 - now
++ **Undergraduate** *Chongqing Normal University* 2018.09 - 2022.07
++ **Undergraduate** *Chongqing University*        2022.09 - now
 
 ##  How to contact me
  
