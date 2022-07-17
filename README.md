@@ -1,6 +1,6 @@
 # Welcome to ZHANG Jiaqi's Home page
 
-🤓 Hi! I'm ZHANG Jiaqi, I am an undergraduate from Chongqing Normal University.
+🤓 Hi! I'm ZHANG Jiaqi, I am an graduate student from Chongqing University.
 
 Here are some ideas to get you Learn about me:
 
